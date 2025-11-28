@@ -13,12 +13,18 @@
 
 
 # Tabulation
+<img width="1052" height="1280" alt="image" src="https://github.com/user-attachments/assets/8cee4585-76ad-40ad-ba0a-906acd73f6fa" />
 
 
 # Graph
+<img width="768" height="1115" alt="image" src="https://github.com/user-attachments/assets/bc00f2de-7353-412f-92f3-90596f81e769" />
+<img width="822" height="1130" alt="image" src="https://github.com/user-attachments/assets/409ecf46-0494-4dd7-b88b-bbf6cd5b8c40" />
 
 
 # Sample images 
+<img width="893" height="1225" alt="image" src="https://github.com/user-attachments/assets/6d9cd63b-42c7-4f3b-a0af-9a793cf82f67" />
+<img width="845" height="1210" alt="image" src="https://github.com/user-attachments/assets/569e987f-f9c7-499d-875c-c722d2fba405" />
 
 
 # Result
+Hence it is verified.
