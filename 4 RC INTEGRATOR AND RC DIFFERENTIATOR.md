@@ -21,13 +21,18 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+<img width="1280" height="858" alt="image" src="https://github.com/user-attachments/assets/f5ebcee5-ce98-40da-8621-7e59c8f5cc4e" />
 
 
 # Graph
+<img width="884" height="1260" alt="image" src="https://github.com/user-attachments/assets/4d804e80-9d0b-43bc-bc54-d13ea92ad8b1" />
+<img width="802" height="1068" alt="image" src="https://github.com/user-attachments/assets/5eb8d8db-1ab6-41d1-bfb2-f965617217ff" />
 
 
 # Sample images 
+<img width="827" height="1273" alt="image" src="https://github.com/user-attachments/assets/8737b279-9dd4-4cb0-b1b7-56ab48c52582" />
+<img width="797" height="1200" alt="image" src="https://github.com/user-attachments/assets/3cb2e4b0-89d2-4af3-9e37-e1bd77ed2fea" />
 
 
 # Result
-
+Hence it is verified.
